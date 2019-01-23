@@ -1,2 +1,6 @@
 ../*
 .DS_Store
+venv/*
+*.pyc
+*_brian.*
+.vscode/settings.json
